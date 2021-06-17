@@ -1,5 +1,0 @@
-este es un texto plano
-
-para realizar ejemplos
-
-de git con VSC
