@@ -1,5 +1,7 @@
-este es un texto plano
+este es un texto plano de CSV
 
 para realizar ejemplos
 
 de git con VSC, pero falta esta informacion
+
+ademas se añado esta informacion para el 3er commit
