@@ -6,4 +6,4 @@ de git con VSC, pero falta esta informacion
 
 ademas se añado esta informacion para el 3er commit
 
-vamos por el 4to commit, usando la primera rama
+vamos por el 4to commit, usando la primera rama añadir nueva informacion.
