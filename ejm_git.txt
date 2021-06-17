@@ -2,4 +2,4 @@ este es un texto plano
 
 para realizar ejemplos
 
-de git con VSC
+de git con VSC, pero falta esta informacion
