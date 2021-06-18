@@ -8,4 +8,4 @@ ademas se añado esta informacion para el 3er commit
 
 vamos por el 4to commit, usando la primera rama añadir nueva informacion.
 
-pa git 2.0, usando amend
+pa git 2.0, usando amend pero olvide este mensaje prueb 2
